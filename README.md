@@ -45,9 +45,18 @@ Note:
 ## Section2: Detailed Report
 The report is presented in the format of a research paper, although it was not for publishing and was just a practice for writing research paper. The report is present here - [Report](report.pdf)
 
+## Demo
+
+**_Click Below Image To See The Project in Action_**
+
+[![Self_Driving_Simulation_In_Action](https://img.youtube.com/vi/lfH-ZAlsPns/0.jpg)](https://www.youtube.com/watch?v=lfH-ZAlsPns)
+
+
+
 ## Author
 
 **[Arjun Singh Kushwaha ](https://www.linkedin.com/in/arjunskushwaha)** 
+
 
 ## Acknowledgments
 ### Inspirations 
@@ -56,4 +65,5 @@ The report is presented in the format of a research paper, although it was not f
 ### References
 - [Introduction to Udacity Self-Driving Car Simulator](https://towardsdatascience.com/introduction-to-udacity-self-driving-car-simulator-4d78198d301d)
 - [A Similar Project](https://github.com/suri97/Self-Driving-Car-Simulation)
+
 
